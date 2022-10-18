@@ -1,4 +1,4 @@
-# Image Scrapping from any websute
+# Image Scrapping from any website
 
 This tools can helps you to scrap all image from the given link
 
